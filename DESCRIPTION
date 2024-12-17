@@ -1,0 +1,24 @@
+Package: moviesdemo
+Type: Package
+Title: Advice Movies based 
+Version: 1.0.0
+Authors@R: c(person("Joe", "Developer", role = c("aut", "cre"),
+                     email = "Joe.Developer@some.domain.net",
+                     comment = c(ORCID = "nnnn-nnnn-nnnn-nnnn")))
+Author: Joe Developer [aut, cre]
+Maintainer: Joe Developer <Joe.Developer@some.domain.net>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
+Depends:
+    R (>= 3.5.0)
+Imports:
+    methods,
+    purrr
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
