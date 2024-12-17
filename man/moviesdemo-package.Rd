@@ -33,6 +33,21 @@ The database used is the TMDb movies Database (see \code{\link{movies_DB}})
 The database used is the TMDb movies Database (see \code{\link{movies_DB}})
 }
 
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/gdeside/moviesdemo}
+  \item Report bugs at \url{https://github.com/gdeside/moviesdemo/issues}
+}
+
+
+Useful links:
+\itemize{
+  \item \url{https://github.com/gdeside/moviesdemo}
+  \item Report bugs at \url{https://github.com/gdeside/moviesdemo/issues}
+}
+
+}
 \author{
 \strong{Maintainer}: Joe Developer \email{Joe.Developer@some.domain.net} (\href{https://orcid.org/nnnn-nnnn-nnnn-nnnn}{ORCID}) [copyright holder]
 
