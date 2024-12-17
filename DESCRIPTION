@@ -1,7 +1,7 @@
 Package: moviesdemo
 Type: Package
 Title: Advice Movies based 
-Version: 1.0.0
+Version: 1.0.1
 Authors@R: c(person("Joe", "Developer", role = c("aut", "cre","cph"),
                      email = "Joe.Developer@some.domain.net",
                      comment = c(ORCID = "nnnn-nnnn-nnnn-nnnn")))
