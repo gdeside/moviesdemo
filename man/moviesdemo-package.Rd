@@ -34,6 +34,6 @@ The database used is the TMDb movies Database (see \code{\link{movies_DB}})
 }
 
 \author{
-\strong{Maintainer}: Joe Developer \email{Joe.Developer@some.domain.net} (\href{https://orcid.org/nnnn-nnnn-nnnn-nnnn}{ORCID})
+\strong{Maintainer}: Joe Developer \email{Joe.Developer@some.domain.net} (\href{https://orcid.org/nnnn-nnnn-nnnn-nnnn}{ORCID}) [copyright holder]
 
 }
